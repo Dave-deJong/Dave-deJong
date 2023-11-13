@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am learning with School of Code, starting in September 2023.
+I am learning with School of Code, I started the 16 week bootcamp in September 2023.
 
 <!--
 **Dave-deJong/Dave-deJong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
